@@ -5,7 +5,7 @@ In this case, the purpose of the study and given data was to study Capomulin, an
 Pymaceuticals Inc. is relying on our expertise to come to concrete conclusions about the drugs using our skills in dependencies, coding, (language=python), pandas, NumPy and a high-level understanding 
 of statistics. For example, a conclusion that is clear from our cleaning of the dataset:
 
--The linea regression that occurs between mouse weight (the independent variable) and the average tumor volume (the dependent variable) as seen in the scatter plot at line 97 in the final report. 
+-The linear regression that occurs between mouse weight (the independent variable) and the average tumor volume (the dependent variable) as seen in the scatter plot at line 97 in the final report. 
 
 Other important tools that matplotlib allows data scientists to use that were applicable in this project include:
 
