@@ -1,7 +1,7 @@
 # Matplotlib-Challenge
 Matplotlib is a valuable tool used by data analysts to convert raw data, that’s been, “cleaned”, to represent trends and results in a visual, easily understandable way. 
 These visual tools such as Bar & Pie Charts and scatter plots also allow us to estimate certain mathematical characteristics of given data such as the correlation coefficient and linear regression. 
-In this case, the purpose of the study and given data was to study Capomulin, an experimental drug treating squamous cell carcinoma and the statistical effectiveness to other drugs with the same goal. 
+In this case, the purpose of the study and given data was to study Capomulin, an experimental drug treating squamous cell carcinoma and the statistical effectiveness compared to other drugs with the same goal. 
 Pymaceuticals Inc. is relying on our expertise to come to concrete conclusions about the drugs using our skills in dependencies, coding, (language=python), pandas, NumPy and a high-level understanding 
 of statistics. For example, a conclusion that is clear from our cleaning of the dataset:
 
